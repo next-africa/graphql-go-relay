@@ -1,7 +1,7 @@
 package relay
 
 import (
-	"github.com/graphql-go/graphql"
+	"github.com/next-africa/graphql-go"
 )
 
 type ResolveSingleInputFn func(input interface{}) interface{}

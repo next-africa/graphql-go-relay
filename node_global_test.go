@@ -3,8 +3,8 @@ package relay_test
 import (
 	"errors"
 	"fmt"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/testutil"
+	"github.com/next-africa/graphql-go"
+	"github.com/next-africa/graphql-go/testutil"
 	"github.com/graphql-go/relay"
 	"golang.org/x/net/context"
 	"reflect"

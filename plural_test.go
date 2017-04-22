@@ -2,10 +2,10 @@ package relay_test
 
 import (
 	"fmt"
-	"github.com/graphql-go/graphql"
-	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/graphql-go/graphql/language/location"
-	"github.com/graphql-go/graphql/testutil"
+	"github.com/next-africa/graphql-go"
+	"github.com/next-africa/graphql-go/gqlerrors"
+	"github.com/next-africa/graphql-go/language/location"
+	"github.com/next-africa/graphql-go/testutil"
 	"github.com/graphql-go/relay"
 	"github.com/kr/pretty"
 	"reflect"
